@@ -1,25 +1,29 @@
 {
   "files": {
     "main.css": "/treebank-wordcloud/static/css/main.590a9490.chunk.css",
-    "main.js": "/treebank-wordcloud/static/js/main.17177686.chunk.js",
-    "main.js.map": "/treebank-wordcloud/static/js/main.17177686.chunk.js.map",
+    "main.js": "/treebank-wordcloud/static/js/main.24b2ae18.chunk.js",
+    "main.js.map": "/treebank-wordcloud/static/js/main.24b2ae18.chunk.js.map",
     "runtime-main.js": "/treebank-wordcloud/static/js/runtime-main.f58ae128.js",
     "runtime-main.js.map": "/treebank-wordcloud/static/js/runtime-main.f58ae128.js.map",
     "static/css/2.0f3a6430.chunk.css": "/treebank-wordcloud/static/css/2.0f3a6430.chunk.css",
-    "static/js/2.b041f469.chunk.js": "/treebank-wordcloud/static/js/2.b041f469.chunk.js",
-    "static/js/2.b041f469.chunk.js.map": "/treebank-wordcloud/static/js/2.b041f469.chunk.js.map",
+    "static/js/2.0808bcec.chunk.js": "/treebank-wordcloud/static/js/2.0808bcec.chunk.js",
+    "static/js/2.0808bcec.chunk.js.map": "/treebank-wordcloud/static/js/2.0808bcec.chunk.js.map",
     "index.html": "/treebank-wordcloud/index.html",
-    "precache-manifest.5ea7d384eb39ed334f11aef8b4243422.js": "/treebank-wordcloud/precache-manifest.5ea7d384eb39ed334f11aef8b4243422.js",
+    "precache-manifest.9ad037c20f22f5971c5b3cf5f5afd111.js": "/treebank-wordcloud/precache-manifest.9ad037c20f22f5971c5b3cf5f5afd111.js",
     "service-worker.js": "/treebank-wordcloud/service-worker.js",
     "static/css/2.0f3a6430.chunk.css.map": "/treebank-wordcloud/static/css/2.0f3a6430.chunk.css.map",
     "static/css/main.590a9490.chunk.css.map": "/treebank-wordcloud/static/css/main.590a9490.chunk.css.map",
-    "static/js/2.b041f469.chunk.js.LICENSE.txt": "/treebank-wordcloud/static/js/2.b041f469.chunk.js.LICENSE.txt"
+    "static/js/2.0808bcec.chunk.js.LICENSE.txt": "/treebank-wordcloud/static/js/2.0808bcec.chunk.js.LICENSE.txt",
+    "static/media/click-treebank.png": "/treebank-wordcloud/static/media/click-treebank.fcd98c95.png",
+    "static/media/copy-link.png": "/treebank-wordcloud/static/media/copy-link.98123df3.png",
+    "static/media/create-wordcloud.png": "/treebank-wordcloud/static/media/create-wordcloud.7aa3c197.png",
+    "static/media/paste-link.png": "/treebank-wordcloud/static/media/paste-link.1d6c25d5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f58ae128.js",
     "static/css/2.0f3a6430.chunk.css",
-    "static/js/2.b041f469.chunk.js",
+    "static/js/2.0808bcec.chunk.js",
     "static/css/main.590a9490.chunk.css",
-    "static/js/main.17177686.chunk.js"
+    "static/js/main.24b2ae18.chunk.js"
   ]
 }
