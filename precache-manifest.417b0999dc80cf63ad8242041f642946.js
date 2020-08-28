@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97474f32bdc9e66dd75392af514a4f73",
+    "revision": "b03cba4da87bafc2ecba4de3b201b697",
     "url": "/treebank-wordcloud/index.html"
   },
   {
-    "revision": "754609ce7066946cad25",
-    "url": "/treebank-wordcloud/static/css/2.0f3a6430.chunk.css"
+    "revision": "898b749a263dbf6a2fc9",
+    "url": "/treebank-wordcloud/static/css/2.338bb585.chunk.css"
   },
   {
-    "revision": "948bd219ee4667d4039c",
+    "revision": "27a847d630687b464cb7",
     "url": "/treebank-wordcloud/static/css/main.590a9490.chunk.css"
   },
   {
-    "revision": "754609ce7066946cad25",
-    "url": "/treebank-wordcloud/static/js/2.08b933da.chunk.js"
+    "revision": "898b749a263dbf6a2fc9",
+    "url": "/treebank-wordcloud/static/js/2.3d6b5d41.chunk.js"
   },
   {
     "revision": "0b08544f54c9906705be39c03b7e79ad",
-    "url": "/treebank-wordcloud/static/js/2.08b933da.chunk.js.LICENSE.txt"
+    "url": "/treebank-wordcloud/static/js/2.3d6b5d41.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "948bd219ee4667d4039c",
-    "url": "/treebank-wordcloud/static/js/main.e02fd976.chunk.js"
+    "revision": "27a847d630687b464cb7",
+    "url": "/treebank-wordcloud/static/js/main.6331c5a4.chunk.js"
   },
   {
     "revision": "985cacb51025b9e113f4",
