@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/treebank-wordcloud/static/css/main.590a9490.chunk.css",
-    "main.js": "/treebank-wordcloud/static/js/main.e02fd976.chunk.js",
-    "main.js.map": "/treebank-wordcloud/static/js/main.e02fd976.chunk.js.map",
+    "main.js": "/treebank-wordcloud/static/js/main.6331c5a4.chunk.js",
+    "main.js.map": "/treebank-wordcloud/static/js/main.6331c5a4.chunk.js.map",
     "runtime-main.js": "/treebank-wordcloud/static/js/runtime-main.f58ae128.js",
     "runtime-main.js.map": "/treebank-wordcloud/static/js/runtime-main.f58ae128.js.map",
-    "static/css/2.0f3a6430.chunk.css": "/treebank-wordcloud/static/css/2.0f3a6430.chunk.css",
-    "static/js/2.08b933da.chunk.js": "/treebank-wordcloud/static/js/2.08b933da.chunk.js",
-    "static/js/2.08b933da.chunk.js.map": "/treebank-wordcloud/static/js/2.08b933da.chunk.js.map",
+    "static/css/2.338bb585.chunk.css": "/treebank-wordcloud/static/css/2.338bb585.chunk.css",
+    "static/js/2.3d6b5d41.chunk.js": "/treebank-wordcloud/static/js/2.3d6b5d41.chunk.js",
+    "static/js/2.3d6b5d41.chunk.js.map": "/treebank-wordcloud/static/js/2.3d6b5d41.chunk.js.map",
     "index.html": "/treebank-wordcloud/index.html",
-    "precache-manifest.74dfd8e3da8dfd8fc850685054c9dc31.js": "/treebank-wordcloud/precache-manifest.74dfd8e3da8dfd8fc850685054c9dc31.js",
+    "precache-manifest.417b0999dc80cf63ad8242041f642946.js": "/treebank-wordcloud/precache-manifest.417b0999dc80cf63ad8242041f642946.js",
     "service-worker.js": "/treebank-wordcloud/service-worker.js",
-    "static/css/2.0f3a6430.chunk.css.map": "/treebank-wordcloud/static/css/2.0f3a6430.chunk.css.map",
+    "static/css/2.338bb585.chunk.css.map": "/treebank-wordcloud/static/css/2.338bb585.chunk.css.map",
     "static/css/main.590a9490.chunk.css.map": "/treebank-wordcloud/static/css/main.590a9490.chunk.css.map",
-    "static/js/2.08b933da.chunk.js.LICENSE.txt": "/treebank-wordcloud/static/js/2.08b933da.chunk.js.LICENSE.txt",
+    "static/js/2.3d6b5d41.chunk.js.LICENSE.txt": "/treebank-wordcloud/static/js/2.3d6b5d41.chunk.js.LICENSE.txt",
     "static/media/click-treebank.png": "/treebank-wordcloud/static/media/click-treebank.fcd98c95.png",
     "static/media/copy-link.png": "/treebank-wordcloud/static/media/copy-link.98123df3.png",
     "static/media/create-wordcloud.png": "/treebank-wordcloud/static/media/create-wordcloud.7aa3c197.png",
@@ -21,9 +21,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f58ae128.js",
-    "static/css/2.0f3a6430.chunk.css",
-    "static/js/2.08b933da.chunk.js",
+    "static/css/2.338bb585.chunk.css",
+    "static/js/2.3d6b5d41.chunk.js",
     "static/css/main.590a9490.chunk.css",
-    "static/js/main.e02fd976.chunk.js"
+    "static/js/main.6331c5a4.chunk.js"
   ]
 }
