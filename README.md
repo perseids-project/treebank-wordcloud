@@ -24,7 +24,7 @@ This will generate a set of static files in the `build/` directory that you can 
 
 For example, if you want to deploy it at `www.example.com/` then run `PUBLIC_URL='./' yarn build`.
 If you want to deploy it at `www.example.com/wordcloud` then run
-`PUBLIC_URL='./reasoning' yarn build`.
+`PUBLIC_URL='./wordcloud' yarn build`.
 
 ## Running tests
 
