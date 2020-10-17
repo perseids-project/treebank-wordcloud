@@ -219,6 +219,7 @@ const stopwords = {
   ut: true,
   // Custom
   punc: true,
+  comma: true,
   '-que': true,
   que: true,
   jam: true,
